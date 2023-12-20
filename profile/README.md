@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lmmaxxx&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Max's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=townityde&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Max's Stats"/>
 
 <hr>
 
@@ -33,5 +33,3 @@
 </p>
 
 <hr>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lmmaxxx&area=true&hide_border=true&theme=gotham)
